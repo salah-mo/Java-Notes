@@ -10,4 +10,4 @@ This repository contains my notes on Java.
 - [JDK Life Cycle](#https://github.com/salah-mo/Java-Notes/blob/ee5de1abe4be3ff2ef9bb4f7d1eb12850c56adbf/JDK%20Life%20Cycle.md)
 - [JVM Life Cycle](#https://github.com/salah-mo/Java-Notes/blob/ee5de1abe4be3ff2ef9bb4f7d1eb12850c56adbf/JVM%20Life%20Cycle.md)
 - [JRE Life Cycle](#https://github.com/salah-mo/Java-Notes/blob/ee5de1abe4be3ff2ef9bb4f7d1eb12850c56adbf/JRE%20Life%20Cycle.md)
-- [Java Project Structure](#https://github.com/salah-mo/Java-Notes/blob/ee5de1abe4be3ff2ef9bb4f7d1eb12850c56adbf/Java%20Project%20Structure.md)
+- [Java Project Structure](#Java Project Structure.md)
