@@ -6,8 +6,8 @@ This repository contains my notes on Java.
 
 ### Intro Section
 
-[JDK, JVM, and JRE](JDK,%20JVM,%20and%20JRE.md)
-JDK Life Cycle
-JVM Life Cycle
-JRE Life Cycle
-Java project structure
+* [JDK, JVM, and JRE](JDK,%20JVM,%20and%20JRE.md)
+* [JDK Life Cycle](JDK%20Life%20Cycle.md)
+* [JVM Life Cycle](JVM%20Life%20Cycle.md)
+* [JRE Life Cycle](JRE%20Life%20Cycle.md)
+* [Java project structure](Java%20Project%20Structure.md)
