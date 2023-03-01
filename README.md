@@ -1,6 +1,7 @@
 # Java Notes
 
-This repository contains my notes on Java.
+This is a collection of notes on Java that I have written for my own reference. I hope that they will be useful to
+others as well.
 
 ## Table of Contents
 
