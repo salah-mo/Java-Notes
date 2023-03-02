@@ -12,9 +12,11 @@ project-name/
 │ │ │ │ │ └── Main.java
 │ │ └── resources/
 │ └── test/
-│ ├── java/
-│ │ ├── com/
-│ │ │ └── example/
+│ │ ├── java/
+│ │ │ │ ├── test/
+│ │ │ │ │ ├── com/
+│ │ │ │ │ │ ├── example/
+│ │ │ │ │ │ │ └── MainTest.java
 │ │ └── resources/
 ├── target/
 ├── pom.xml
@@ -30,11 +32,17 @@ The `src/` directory contains the source code of the project. It is typically di
 and `test/`.
 
 * The `main/` directory contains the main code of the project, which is divided into `java/` and `resources/`.
-  * The `java/` directory contains the Java source code organized into packages.
-  * The `resources/` directory contains any non-Java resources that are required by the application, such as configuration
-    files, property files, and images.
+    * The `java/` directory contains the Java source code organized into packages.
+    * The `resources/` directory contains any non-Java resources that are required by the application, such as
+      configuration
+      files, property files, and images.
 
 * The `test/` directory contains the unit tests for the project, organized into `java/` and `resources/`.
+    * The `java/` directory contains the Java source code for the unit tests, organized into packages.
+    * The `resources/` directory contains any non-Java resources that are required by the unit tests, such as
+      configuration files, property files, and images.
+
+  The `test/` directory is typically only present in projects that use a unit testing framework, such as JUnit.
 
 The `target/` directory contains the compiled code, as well as any generated artifacts, such as JAR files.
 
