@@ -7,7 +7,7 @@ others as well.
 
 ### Live presentations
 
-[live presentations](Live.pptx)
+[live presentations](Live/Live.pptx)
 
 ### WEEK 1
 
