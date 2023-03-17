@@ -22,9 +22,4 @@ others as well.
 1. [Java Programming Steps](Week%202/Java%20Programming%20Steps.md)
 2. [First Java Program](Week%202/First%20Java%20Program.md)
 3. [Java Access Modifiers](Week%202/Access%20Modifiers.md)
-4. [Java Data Types](Week%202/Java%20Data%20Types.md)
-5. [Java Variables](Week%202/Java%20Variables.md)
-
-### WEEK 3  
-
-**SOON >>>**
+4. [Java Variables](Week%202/Java%20Variables.md)
