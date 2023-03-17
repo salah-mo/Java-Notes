@@ -36,7 +36,7 @@ The first line of the code is the class declaration. The class name is HelloWorl
 The second line is the main method declaration.
 
 * `public` is an [access modifier](Access%20Modifiers.md). It means that the method is accessible from anywhere.
-* `static` is a keyword in Java. It means that the method belongs to the class and not to an object.
+* `static` is a keyword in Java. It means methods/attributes can be accessed without creating an object of a class.
 * `void` is a keyword in Java. It means that the method does not return a value.
 * `main` is the name of the method.
 * `()` is used to define the parameters of the method.
