@@ -19,4 +19,6 @@ others as well.
 
 ### WEEK 2
 
-**SOON>>>>**
+1. [Java Programming Steps](Week%202/Java%20Programming%20Steps.md)
+2. [First Java Program](Week%202/First%20Java%20Program.md)
+3. [Java Access Modifiers](Week%202/Access%20Modifiers.md)
