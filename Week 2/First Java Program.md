@@ -59,5 +59,5 @@ The fourth line is the closing bracket of the class.
 
 * The main method is the entry point of a Java program. It is the first method that is executed when the program is run.
 * The main method must be declared in a public class.
-* ach Java program must have only one main method.
+* Each Java program must have only one main method.
 
