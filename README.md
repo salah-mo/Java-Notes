@@ -24,3 +24,7 @@ others as well.
 3. [Java Access Modifiers](Week%202/Access%20Modifiers.md)
 4. [java Data Types](Week%202/Java%20Data%20Types.md)
 5. [Java Variables](Week%202/Java%20Variables.md)
+
+### WEEK 3
+
+_**SOON>>>>>**_
