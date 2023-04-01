@@ -30,7 +30,7 @@ int aGe;  // uppercase and lowercase
 
 ### Examples of invalid variable names:
 
- ```java
+```java
 
 int 1age;          // cannot begin with a number
 int age@;         // cannot contain special characters
@@ -49,7 +49,7 @@ int class;  // cannot be a reserved keyword
 
 A variable is declared by specifying the type and name of the variable.
 
-```java
+```markdown
 data_type variable_name;
 ```
 
@@ -63,29 +63,29 @@ int age;
 
 A variable is initialized by assigning a value to it.
 
-```java
+```markdown
 data_type variable_name=value;
 ```
 
 For example:
 
 ```java
-int age=21;
+int age = 21;
 ```
 
 ### Assignment
 
 A variable is assigned a value by using the assignment operator (=).
 
-```java
-variable_name=value;
+```markdown
+variable_name = value;
 ```
 
 For example:
 
 ```java
-int age=21;  // initialization
-age=24;    // re-assignment
+int age = 21;  // initialization
+age = 24;     // re-assignment
 ```
 
 ## Variable Scope
@@ -141,7 +141,7 @@ There are four common naming conventions:
 
 In camel case, the first letter of each word is capitalized, except the first word.
 
-```java  
+```java
 int ageOfPerson;
 ```
 
@@ -157,7 +157,7 @@ int AgeOfPerson;
 
 In snake case, all letters are lowercase, and words are separated by underscores.
 
-```java  
+```java
 int age_of_person;
 ```
 
