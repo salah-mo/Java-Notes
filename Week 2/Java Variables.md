@@ -160,3 +160,11 @@ In snake case, all letters are lowercase, and words are separated by underscores
 ```java  
 int age_of_person;
 ```
+
+### Kebab Case
+
+In kebab case, all letters are lowercase, and words are separated by hyphens.
+
+```java
+int age-of-person;
+```
