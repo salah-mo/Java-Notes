@@ -27,4 +27,12 @@ others as well.
 
 ### WEEK 3
 
-_**SOON>>>>>**_
+1. [Arithmetic Operators](Week%203/Arithmetic%20Operators.md)
+2. [Assignment Operators](Week%203/Assignment%20Operators.md)
+3. [Comparison Operators](Week%203/Comparison%20Operators%20.md)
+4. [Logical Operators](Week%203/Logical%20Operators.md)
+5. [Bitwise Operators](Week%203/Bitwise%20Operators%20.md)
+
+### WEEK 4
+
+_Soon..._
